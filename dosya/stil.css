@@ -1,0 +1,19 @@
+#div1 {
+  min-height: 700px;
+  border-bottom:#FFFFFF solid dashed;
+  background-color: #FFFFFF;
+}
+#div2 {
+  background-color: #FFFFFF;
+  border-right:#FFFFFF solid dashed;
+}
+#div3 {
+min-height: 80px;
+font-size: 40px;
+}
+#div4 {
+  border-top:#FFFFFF solid dashed;
+}
+#urunler {
+    border-left:#E1E9F0 solid dashed;
+}
